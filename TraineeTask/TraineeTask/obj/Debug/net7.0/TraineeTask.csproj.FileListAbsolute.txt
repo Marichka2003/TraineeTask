@@ -1,0 +1,15 @@
+C:\Users\Xiaomi\source\repos\TraineeTask\TraineeTask\obj\Debug\net7.0\TraineeTask.csproj.AssemblyReference.cache
+C:\Users\Xiaomi\source\repos\TraineeTask\TraineeTask\obj\Debug\net7.0\TraineeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xiaomi\source\repos\TraineeTask\TraineeTask\obj\Debug\net7.0\TraineeTask.AssemblyInfoInputs.cache
+C:\Users\Xiaomi\source\repos\TraineeTask\TraineeTask\obj\Debug\net7.0\TraineeTask.AssemblyInfo.cs
+C:\Users\Xiaomi\source\repos\TraineeTask\TraineeTask\obj\Debug\net7.0\TraineeTask.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\TraineeTask\TraineeTask\bin\Debug\net7.0\TraineeTask.exe
+C:\Users\Xiaomi\source\repos\TraineeTask\TraineeTask\bin\Debug\net7.0\TraineeTask.deps.json
+C:\Users\Xiaomi\source\repos\TraineeTask\TraineeTask\bin\Debug\net7.0\TraineeTask.runtimeconfig.json
+C:\Users\Xiaomi\source\repos\TraineeTask\TraineeTask\bin\Debug\net7.0\TraineeTask.dll
+C:\Users\Xiaomi\source\repos\TraineeTask\TraineeTask\bin\Debug\net7.0\TraineeTask.pdb
+C:\Users\Xiaomi\source\repos\TraineeTask\TraineeTask\obj\Debug\net7.0\TraineeTask.dll
+C:\Users\Xiaomi\source\repos\TraineeTask\TraineeTask\obj\Debug\net7.0\refint\TraineeTask.dll
+C:\Users\Xiaomi\source\repos\TraineeTask\TraineeTask\obj\Debug\net7.0\TraineeTask.pdb
+C:\Users\Xiaomi\source\repos\TraineeTask\TraineeTask\obj\Debug\net7.0\TraineeTask.genruntimeconfig.cache
+C:\Users\Xiaomi\source\repos\TraineeTask\TraineeTask\obj\Debug\net7.0\ref\TraineeTask.dll
